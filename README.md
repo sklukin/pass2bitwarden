@@ -1,5 +1,5 @@
 # pass2bitwarden
-Import data to (bitwarden)[https://bitwarden.com/] from (pass)[https://www.passwordstore.org/]
+Import data to https://bitwarden.com/ from https://www.passwordstore.org/
 
 ## First stage
 
@@ -14,7 +14,6 @@ Iam thinking to skip the first step from previous steps
 
 ## Contacts
 sklukin@yandex.ru
-telegram sklukin
-
+telegram: sklukin
 
 
