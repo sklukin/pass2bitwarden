@@ -9,7 +9,7 @@ How to use
 - go run main.go -csv=~/pass_backup.csv > ~/pass_for_bit.json
 - https://bitwarden.com/help/article/import-data/
 
-## First stage
+## Second stage
 Iam thinking to skip the first step from previous steps
 
 ## Contacts
